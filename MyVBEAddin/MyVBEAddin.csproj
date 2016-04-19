@@ -58,19 +58,19 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MyCompany.Interop.Extensibility">
-      <HintPath>..\..\..\..\..\..\Desktop\MyCompany.Interop.Extensibility.dll</HintPath>
+      <HintPath>.\MyCompany.Interop.Extensibility.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="MyCompany.Interop.Office14">
-      <HintPath>..\..\..\..\..\..\Desktop\MyCompany.Interop.Office14.dll</HintPath>
+      <HintPath>.\MyCompany.Interop.Office14.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="MyCompany.Interop.Stdole">
-      <HintPath>..\..\..\..\..\..\Desktop\MyCompany.Interop.Stdole.dll</HintPath>
+      <HintPath>.\MyCompany.Interop.Stdole.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="MyCompany.Interop.VBAExtensibility">
-      <HintPath>..\..\..\..\..\..\Desktop\MyCompany.Interop.VBAExtensibility.dll</HintPath>
+      <HintPath>.\MyCompany.Interop.VBAExtensibility.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
