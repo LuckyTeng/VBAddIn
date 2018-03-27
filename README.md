@@ -1,7 +1,9 @@
 # VBAddIn
 VBA COM Add-in Example Project
+> This is startup for whom want to develope the VBA add-in -- @luckyteng.
 
-Description: This add-in extends the VBA IDE function, it's a template how it work,
+### Description
+This add-in extends the VBA IDE function, it's a template how it work,
   if you type "if" and press [tab] key, it will insert the if code snippet of the editor.
   
 Build : Microsoft Visual Studio 2010 SP1
